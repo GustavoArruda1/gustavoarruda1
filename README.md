@@ -1,7 +1,8 @@
 ## Olá, sou o Gustavo!!!
 
 ##
-Desenvolvedor de Sistemas formado pela Escola Técnica Sequencial, com foco em desenvolvimento web, especialmente no front-end. Fui responsável pelo desenvolvimento do front-end do site da Escola Estadual Eugênio Mariz de Oliveira Netto (www.eugeniomariz.com.br), em colaboração com colegas que cuidaram do back-end e do design. Aqui, compartilho pequenos projetos e registro minha evolução na área. Fique à vontade para explorar e acompanhar meu progresso!
+Desenvolvedor de Sistemas, atualmente cursando Análise e Desenvolvimento de Sistemas na FATEC. Formado pela Escola Técnica Sequencial com especialização em desenvolvimento web, com ênfase em front-end. Fui responsável pelo desenvolvimento do front-end do site da Escola Estadual Eugênio Mariz de Oliveira Netto (www.eugeniomariz.com.br), em colaboração com a equipe de back-end e design. Aqui, compartilho projetos e registro minha evolução profissional. Fique à vontade para explorar!
+
 
 
 ###
