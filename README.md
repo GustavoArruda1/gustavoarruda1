@@ -55,4 +55,6 @@ Desenvolvedor de Sistemas, atualmente cursando Análise e Desenvolvimento de Sis
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gustavoarruda1/gustavoarruda1/output/github-contribution-grid-snake.svg">
 </picture>
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9f12f7&height=120&section=footer"/>
+
 ###
