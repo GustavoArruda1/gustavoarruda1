@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Gustavo+Arruda;I+study+analysis+and+systems+development+at+Fatec;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
-## Olá, sou o Gustavo!!!
+## Welcome to my GitHub!!!
 
 ##
 Desenvolvedor de Sistemas, atualmente cursando Análise e Desenvolvimento de Sistemas na FATEC. Formado pela Escola Técnica Sequencial com especialização em desenvolvimento web, com ênfase em front-end. Fui responsável pelo desenvolvimento do front-end do site da Escola Estadual Eugênio Mariz de Oliveira Netto (www.eugeniomariz.com.br), em colaboração com a equipe de back-end e design. Aqui, compartilho projetos e registro minha evolução profissional. Fique à vontade para explorar!
