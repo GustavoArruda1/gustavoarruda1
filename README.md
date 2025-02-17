@@ -7,7 +7,7 @@
 ##
 Desenvolvedor de Sistemas, atualmente cursando Análise e Desenvolvimento de Sistemas na FATEC. Formado pela Escola Técnica Sequencial com especialização em desenvolvimento web, com ênfase em front-end. Fui responsável pelo desenvolvimento do front-end do site da Escola Estadual Eugênio Mariz de Oliveira Netto (www.eugeniomariz.com.br), em colaboração com a equipe de back-end e design. Aqui, compartilho projetos e registro minha evolução profissional. Fique à vontade para explorar!
 
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gustavoarruda1&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ###
 
